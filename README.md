@@ -16,7 +16,6 @@ This is a basic C++ library management system that allows you to add, list, rese
 - [`Library.hpp`](Library.hpp): Library class declaration
 - [`Library.cpp`](Library.cpp): Library class implementation
 - [`main.cpp`](main.cpp): Example usage and entry point
-- `.vscode/`: VS Code configuration files
 
 ## Build Instructions
 
